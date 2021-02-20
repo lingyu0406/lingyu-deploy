@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "前端部署发布工具",
   "bin": {
-    "woy": "bin/index.js"
+    "xoy": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
