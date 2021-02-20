@@ -1,6 +1,6 @@
 {
   "name": "xi-deploy-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端部署发布工具",
   "bin": {
     "xoy": "bin/index.js"
