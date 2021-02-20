@@ -1,5 +1,5 @@
 {
-  "name": "lydeploy",
+  "name": "xi-deploy-tools",
   "version": "1.0.0",
   "description": "前端部署发布工具",
   "bin": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lingyu0406/lingyu-deploy.git"
   },
   "author": "YangLingyu",
   "license": "ISC",
